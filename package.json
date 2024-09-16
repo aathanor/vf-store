@@ -12,7 +12,7 @@
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.11",
-    "@medusajs/medusa-js": "^latest_version",
+    "@medusajs/medusa-js": "^latest"
   },
   "devDependencies": {
     "postcss": "^8",
