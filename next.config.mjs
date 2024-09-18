@@ -1,8 +1,8 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
-
 // next.config.mjs
-export default {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   output: 'export',
-  reactStrictMode: true,  // You can keep other Next.js configurations here
+  reactStrictMode: true,  // Your other Next.js configurations
 };
+
+export default nextConfig;
